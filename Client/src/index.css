@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+body{
+  background: #eee;
+}
+.list{
+  margin-left: 45%;
+  color:black;
+}
+.background{
+  height: 250px;
+  width: 100%;
+  background-color: black;
+}
+.color{
+  color: white;
+  text-align: center;
+}
+
+.image{
+  margin-top: 2%;
+  height:140px;
+  width:180px;
+  margin-left: 43.5%;
+}
+
+.top{
+  margin-top: 10px;
+}
+.v1{
+  border-left: 3px solid black;
+  height: 350px;
+  margin-left:100px
+}
+.left{
+  margin-left: 70px;
+}
+.button{
+  background-color: black;
+  color:white ;
+}
+.icon{
+  position: relative;
+  color:lightgrey
+}
+.icon:hover{
+  color:black
+} 
+input, button, select, optgroup, textarea {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  width: 40% 
+}
+.pad{
+  padding:3px
+}
+label{
+  color:black;
+ font-weight: bolder;
+
+}
